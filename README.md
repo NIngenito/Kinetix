@@ -1,32 +1,34 @@
-<p align="center"><img src="castorino-icon.png" width="128" alt="Icona di Castorino"></p>
+<p align="center"><img src="kinetix-icon.png" width="128" alt="Icona di Kinetix"></p>
 
-<h1 align="center">Castorino</h1>
-<p align="center"><b>I video del web sulla TV.</b></p>
+<h1 align="center">Kinetix</h1>
+<p align="center"><b>cast web video to TV</b><br>I video del web sulla TV.</p>
 
-<p align="center"><a href="https://github.com/NIngenito/Castorino/releases/latest/download/Castorino.apk"><b>⬇ Scarica Castorino per Android</b></a></p>
+<p align="center"><a href="https://github.com/NIngenito/Castorino/releases/latest/download/Kinetix.apk"><b>⬇ Scarica Kinetix per Android</b></a></p>
 
 ---
 
-Castorino manda alla TV i video che trovi in rete: incolli un link, oppure cerchi il video in un sito con il browser dell'app, e lo guardi sul telefono o lo trasmetti alla TV.
+Kinetix manda alla TV i video che trovi in rete: incolli un link, oppure cerchi il video in un sito con il browser dell'app, e lo guardi sul telefono o lo trasmetti alla TV.
 
 - Funziona con le **Smart TV che accettano DLNA/UPnP** (molte Samsung e LG) e con **Kodi** sul PC, sulla stessa rete Wi‑Fi del telefono.
 - Se la TV non accetta il video così com'è, il telefono lo prepara per lei (qualità, audio, sottotitoli).
 - Dal telefono fai da telecomando: pausa, avanti, volume, qualità, audio e sottotitoli.
 
-> **Versione di prova.** Castorino è giovane: qualche TV o qualche sito potrebbe non funzionare.
+> **Versione di prova.** Kinetix è giovane: qualche TV o qualche sito potrebbe non funzionare.
+
+> **Prima si chiamava Castorino.** È la stessa app con nome e grafica nuovi: se hai già Castorino, installa Kinetix sopra e i tuoi dati restano.
 
 ## Come si installa
 
-1. Dal telefono tocca **[Scarica Castorino per Android](https://github.com/NIngenito/Castorino/releases/latest/download/Castorino.apk)**.
-2. Apri il file scaricato (`Castorino.apk`).
+1. Dal telefono tocca **[Scarica Kinetix per Android](https://github.com/NIngenito/Castorino/releases/latest/download/Kinetix.apk)**.
+2. Apri il file scaricato (`Kinetix.apk`).
 3. La prima volta Android chiede il permesso di installare app da questa fonte (il browser o l'app con cui l'hai aperto): consentilo, poi torna indietro e tocca **Installa**.
-4. Al primo invio alla TV, sui telefoni più recenti Castorino chiede il permesso di cercare i dispositivi sulla rete locale: serve per trovare la TV.
+4. Al primo invio alla TV, sui telefoni più recenti Kinetix chiede il permesso di cercare i dispositivi sulla rete locale: serve per trovare la TV.
 
 Serve **Android 12 o più recente**.
 
 ## Aggiornamenti
 
-Le versioni nuove sono nella pagina [Releases](https://github.com/NIngenito/Castorino/releases). Per aggiornare scarica di nuovo il file e installalo sopra: i tuoi dati restano. Castorino non si aggiorna da solo.
+Le versioni nuove sono nella pagina [Releases](https://github.com/NIngenito/Castorino/releases). Per aggiornare scarica di nuovo il file e installalo sopra: i tuoi dati restano. Kinetix non si aggiorna da solo.
 
 ## Cosa fa e cosa non fa con i tuoi dati
 
@@ -34,4 +36,4 @@ Le versioni nuove sono nella pagina [Releases](https://github.com/NIngenito/Cast
 - La cronologia dei video e i segnalibri restano solo sul telefono.
 - Il registro per la diagnostica resta sul telefono; lo puoi salvare tu dalle Impostazioni se qualcosa non va.
 
-Castorino non fornisce video: trasmette quelli che apri tu. Usalo solo per contenuti che hai il diritto di guardare.
+Kinetix non fornisce video: trasmette quelli che apri tu. Usalo solo per contenuti che hai il diritto di guardare.
