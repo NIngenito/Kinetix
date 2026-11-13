@@ -3,7 +3,7 @@
 <h1 align="center">Castorino</h1>
 <p align="center"><b>I video del web sulla TV.</b></p>
 
-<p align="center"><a href="https://github.com/NIngenito/castorino/releases/latest/download/Castorino.apk"><b>⬇ Scarica Castorino per Android</b></a></p>
+<p align="center"><a href="https://github.com/NIngenito/Castorino/releases/latest/download/Castorino.apk"><b>⬇ Scarica Castorino per Android</b></a></p>
 
 ---
 
@@ -17,7 +17,7 @@ Castorino manda alla TV i video che trovi in rete: incolli un link, oppure cerch
 
 ## Come si installa
 
-1. Dal telefono tocca **[Scarica Castorino per Android](https://github.com/NIngenito/castorino/releases/latest/download/Castorino.apk)**.
+1. Dal telefono tocca **[Scarica Castorino per Android](https://github.com/NIngenito/Castorino/releases/latest/download/Castorino.apk)**.
 2. Apri il file scaricato (`Castorino.apk`).
 3. La prima volta Android chiede il permesso di installare app da questa fonte (il browser o l'app con cui l'hai aperto): consentilo, poi torna indietro e tocca **Installa**.
 4. Al primo invio alla TV, sui telefoni più recenti Castorino chiede il permesso di cercare i dispositivi sulla rete locale: serve per trovare la TV.
@@ -26,7 +26,7 @@ Serve **Android 12 o più recente**.
 
 ## Aggiornamenti
 
-Le versioni nuove sono nella pagina [Releases](https://github.com/NIngenito/castorino/releases). Per aggiornare scarica di nuovo il file e installalo sopra: i tuoi dati restano. Castorino non si aggiorna da solo.
+Le versioni nuove sono nella pagina [Releases](https://github.com/NIngenito/Castorino/releases). Per aggiornare scarica di nuovo il file e installalo sopra: i tuoi dati restano. Castorino non si aggiorna da solo.
 
 ## Cosa fa e cosa non fa con i tuoi dati
 
