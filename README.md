@@ -15,7 +15,7 @@ Kinetix manda alla TV i video che trovi in rete: incolli un link, oppure cerchi 
 
 > **Versione di prova.** Kinetix è giovane: qualche TV o qualche sito potrebbe non funzionare.
 
-> **Prima si chiamava Castorino.** È la stessa app con nome e grafica nuovi: se hai già Castorino, installa Kinetix sopra e i tuoi dati restano.
+> **Avevi Castorino o Kinetix 0.2.0?** Dalla 0.3.0 Kinetix è un'app nuova: installala e poi disinstalla quella vecchia.
 
 ## Come si installa
 
